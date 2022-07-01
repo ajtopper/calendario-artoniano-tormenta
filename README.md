@@ -16,11 +16,10 @@ Esse é um protótipo inicial do calendário do mundo de Arton, com certeza fiqu
 
 
 ## Considerações e Agradecimentos
+Esse é um contéudo NÃO OFICIAL de Tormenta e não há nenhuma ligação com a Jambô Editora.
+É um trabalho de fãs para fãs e a medida que eventos canônicos forem ocorrendo o projeto será atualizado.
 
-Esse é um contéudo não-oficial de Tormenta e não há nenhuma ligação com a Jambô Editora.
-É um trabalho de fãs para fãs e a medida que eventos canônicos forem ocorrendo serão atualizados no projeto.
-
-Esse calendário se basea totalmente na documentação feita pelo Edu Guimarães do blog Área de Tormenta. 
+Esse calendário se basea totalmente na documentação feita pelo `Edu Guimarães` do blog Área de Tormenta. 
 (https://areadetormenta.wordpress.com/2010/11/12/calendario-artoniano/)
 
 Muito obrigado Edu por ter disponibilizado um conteúdo tão rico.
