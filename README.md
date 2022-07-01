@@ -31,6 +31,6 @@ Muito obrigado Edu por ter disponibilizado um conteúdo tão rico.
 - Adequação para Foundry `Daniel Gomes` (https://github.com/ajtopper)
 
 ## Links Úteis
-Calendário Artoniano: Usando na Campanha (https://areadetormenta.wordpress.com/2010/11/12/calendario-artoniano/)
-Download do PDF ([calendario-artoniano-1400-1412_v2.pdf](https://github.com/ajtopper/calendario-artoniano-tormenta/files/9031944/calendario-artoniano-1400-1412_v2.pdf)
+- Calendário Artoniano: Usando na Campanha (https://areadetormenta.wordpress.com/2010/11/12/calendario-artoniano/)
+- Download do PDF ([calendario-artoniano-1400-1412_v2.pdf](https://github.com/ajtopper/calendario-artoniano-tormenta/files/9031944/calendario-artoniano-1400-1412_v2.pdf)
 
