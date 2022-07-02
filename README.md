@@ -33,7 +33,7 @@ Muito obrigado Edu por ter disponibilizado um conteúdo tão rico.
 
 ## Autores
 
-- Resumo do Calendário em PDF `Edu Guimarães` e `Renan Slay`
+- Guia do Calendário em PDF `Edu Guimarães` e `Renan Slay`
 - Adequação para Foundry `Daniel Gomes` (https://github.com/ajtopper)
 - Conteúdo Original por `Álvaro "Jamil" Freitas` e Jambô Editora
 
