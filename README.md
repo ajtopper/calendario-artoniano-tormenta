@@ -6,10 +6,10 @@ Calendário de Arton para o Foundry VTT usando o módulo Simple Calendar.
 - Módulo Simple Calendar (https://foundryvtt.com/packages/foundryvtt-simple-calendar)
 
 ## Instalação
-1. Baixe o arquivo `arton-tormenta-simple-calendar-export`.
+1. Baixe o arquivo `calendario-artoniano-export`
 2. Abra o Foundry VTT e acesse as configurações do Simple Calendar.
 3. Na aba Global Configuration acesse Import/Export
-4. Vá em Import e selecione o arquivo `arton-tormenta-simple-calendar-export` que você baixou.
+4. Vá em Import e selecione o arquivo `calendario-artoniano-export` que você baixou.
 
 ## Contribua
 Esse é um protótipo inicial do calendário do mundo de Arton, com certeza fique a vontade para adicionar informações, detalhes e datas importantes e enviar aqui como fork. Se a sua contribuação for relevante irei fazer o merge aqui no projeto.
