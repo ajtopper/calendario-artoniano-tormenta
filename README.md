@@ -33,8 +33,9 @@ Muito obrigado Edu por ter disponibilizado um conteúdo tão rico.
 
 ## Autores
 
-- Conteúdo e Calendário `Edu Guimarães` e `Renan Slay`
+- Resumo do Calendário em PDF `Edu Guimarães` e `Renan Slay`
 - Adequação para Foundry `Daniel Gomes` (https://github.com/ajtopper)
+- Conteúdo Original por `Álvaro "Jamil" Freitas` e Jambô Editora
 
 ## Links Úteis
 - Calendário Artoniano: Usando na Campanha (https://areadetormenta.wordpress.com/2010/11/12/calendario-artoniano/)
